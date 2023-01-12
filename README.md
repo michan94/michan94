@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my portfolio
-- 👀 I'm actively looking for opportunities in hockey and analytics
+- 👀 I'm actively seeking opportunities in hockey and analytics
 - 🌱 I’m currently learning Data Analysis with Python
 - 📫 How to reach me: @michan94
 
@@ -17,9 +16,6 @@
 ### **Social Media**
 
 <p align="left">
-  <a href="https://mail.google.com/mail/u/0/#inbox" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox" /></a>
-
   <a href="https://www.linkedin.com/in/mitchan/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mitchan/" /></a>
 
