@@ -13,7 +13,7 @@
 <code><img height="30" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></code>
 <code><img height="30" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"></code>
   
-### **Social Media**
+## **Socials**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mitchan/" alt="Linkedin">
