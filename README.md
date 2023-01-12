@@ -23,7 +23,7 @@
   <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white&link=https://www.codewars.com/users/michan94" /></a>
 
   <a href="https://leetcode.com/garfield041/" alt="Leetcode">
-  <img src="	https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/garfield041/" /></a>
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/garfield041/" /></a>
 </p>  
   
  
